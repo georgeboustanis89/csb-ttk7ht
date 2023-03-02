@@ -1523,8 +1523,6 @@
   }
 ];*/
 
-let hymns = require('./ymnologio-neolea-nikaia-2012.json')
-
 const $contents = document.querySelector("#contents");
 const $btnContainer = document.querySelector("#btn-container");
 
