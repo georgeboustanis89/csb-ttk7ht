@@ -1,10 +1,5 @@
 let hymns = [
     {
-        "number": 3,
-        "title": "3. ΘΑ ‘ΡΘΕΙΣ ΞΑΝΑ",
-        "text": "<div class='line'>Θα ‘ρθεις ξανά στη γη Χριστέ</div><div class='line'>και όλοι θα δουν πως είσαι Κύριος. (2)</div><div class='line'>Θα ‘ρθεις ξανά και θα χαρώ</div><div class='line'>σαν θα Σε δω Σωτήρα Ιησού. (2)</div><div class='line'>Αλληλούια Κύριε.</div>"
-    },
-    {
         "number": 1,
         "title": "1. ΕΙΡΗΝΗ ΣΟΥ ΔΙΝΩ",
         "text": "<div class='line'>Ειρήνη Σου δίνω, την ειρήνη μου δίνω σ’ εσέ,</div><div class='line'>όπως φροντίζω τα πουλιά του ουρανού</div><div class='line'>θα φροντίσω και για σε.</div></br><div class='line'>Ειρήνη σου δίνω, την ειρήνη μου δίνω σ’ εσέ,</div><div class='line'>όπως στέλνω τη βροχή πάνω στη γη</div><div class='line'>θα ευλογήσω και εσέ.</div></br><strong>Επωδός</strong><div class='line'>Μόνο εμπιστεύσου με παιδί μου καλό</div><div class='line'>και πίστεψε εγώ πως σ’ αγαπώ</div><div class='line'>και η θλίψη που έχει η ματιά σου</div><div class='line'>θα χαθεί με τα βουνά μαζί</div><div class='line'>που βρίσκονται μπροστά σου</div><div class='line'>και η χαρά μου θα γεμίσει την καρδιά σου.</div></br><div class='line'>Ειρήνη Σου δίνω, την ειρήνη μου δίνω σ’ εσέ,</div><div class='line'>ας ησυχάσει η καρδιά σου η κουρασμένη</div><div class='line'>δεν σ’ αφήνω εγώ ποτέ.</div></br><div class='line'>Ειρήνη Σου δίνω, την ειρήνη μου δίνω σ’ εσέ,</div><div class='line'>όπως ο ήλιος δεν μπορεί ποτέ να σβήσει</div><div class='line'>έτσι και η αγάπη μου για σε.</div>"
@@ -13,6 +8,11 @@ let hymns = [
         "number": 2,
         "title": "2. ΚΑΠΟΤΕ Ο ΚΥΡΙΟΣ",
         "text": "<div class='line'>Κάποτε ο Κύριος ήρθε στη γη</div><div class='line'>με σκοπό το γεγραμμένο να εκπληρωθεί,</div><div class='line'>μας χάρισε την ουράνια ευτυχία.</div><div class='line'>Τις φουρτούνες μου όλες τις ξεπερνώ</div><div class='line'>με τον Κύριό μου πλάι στο πλευρό,</div><div class='line'>Τον αγαπώ και μαζί Του προχωράω.</div></br><strong>Επωδός</strong><div class='line'>Αλληλούια, δόξα, αλληλούια, δόξα. (2)</div></br><div class='line'>Τώρα ζω μες στη χαρά και τραγουδώ</div><div class='line'>προχωρώντας με τον ένδοξο Θεό,</div><div class='line'>δεν υπάρχει ωραιότερο στον κόσμο.</div><div class='line'>Περιμένω ώσπου να ‘ρθει η στιγμή</div><div class='line'>να πετάξουμε ψηλά στην αρπαγή,</div><div class='line'>δεν υπάρχει ωραιότερο στον κόσμο.</div>"
+    },
+    {
+        "number": 3,
+        "title": "3. ΘΑ ‘ΡΘΕΙΣ ΞΑΝΑ",
+        "text": "<div class='line'>Θα ‘ρθεις ξανά στη γη Χριστέ</div><div class='line'>και όλοι θα δουν πως είσαι Κύριος. (2)</div><div class='line'>Θα ‘ρθεις ξανά και θα χαρώ</div><div class='line'>σαν θα Σε δω Σωτήρα Ιησού. (2)</div><div class='line'>Αλληλούια Κύριε.</div>"
     },
     {
         "number": 4,
