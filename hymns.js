@@ -285,7 +285,7 @@
   }
 ]; */
 
-let hymns = [
+/*let hymns = [
   {
     title: "3. ΘΑ ‘ΡΘΕΙΣ ΞΑΝΑ",
     text:
@@ -1521,7 +1521,9 @@ let hymns = [
     text:
       "<div class='line'>Χαρούμενο μικρό παιδί στης μάνας την αγκάλη. </div><div class='line'>Χορός αγγέλων σε υμνεί, Χριστούγεννα και πάλι. </div></br><div class='line'>Επωδός </div><div class='line'>Μα μέσα στη νυχτιά ηχούν αγγέλων «Ωσαννά». </div><div class='line'>Να πάλι χαρωπά στη Βηθλεέμ μας πάνε. </div></br><div class='line'>Μαζί με ζώα σιωπηλά κοιμάται ο Χριστός μας. </div><div class='line'>Φωνές Του ψάλουν ταπεινά, τα χείλη καθενός μας. </div></br><div class='line'>Για ακόμη φέτος μια φορά στη γη την πονεμένη</div><div class='line'>γιορτάζουμε Χριστούγεννα κι η φάτνη μας προσμένει.</div>"
   }
-];
+];*/
+
+let hymns = require('./ymnologio-neolea-nikaia-2012.json')
 
 const $contents = document.querySelector("#contents");
 const $btnContainer = document.querySelector("#btn-container");
