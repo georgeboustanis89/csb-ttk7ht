@@ -1,4 +1,4 @@
-[
+let hymns = [
     {
         "number": 3,
         "title": "3. ΘΑ ‘ΡΘΕΙΣ ΞΑΝΑ",
